@@ -4,7 +4,6 @@
 
 ### 以下内容是根据原作者项目说明进行相应修改，方便初学者小白们理解！
 
-### 详细视频教程YouTube：https://youtu.be/dE730hVgmUs
    
 * 作者的Heroku脚本为多协议共存脚本，该项目使用[xray](https://github.com/XTLS/Xray-core)+caddy，同时部署通过ws传输模式的vmess vless trojan-go shadowsocks socks等协议，默认已配置好伪装网站。  
 
